@@ -1,0 +1,1 @@
+import{t as e}from"./dist-B7OYLug0.js";var t=e(`https://cajohrzqztrwoblyqbku.supabase.co`,`eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNham9ocnpxenRyd29ibHlxYmt1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM0MjYyNzYsImV4cCI6MjA2ODk3NDI3Nn0.9u9kkEfNBnEMZEKHsBI1yQE_Jd9R1BjqAR1PgY6TFY`,{realtime:{params:{eventsPerSecond:2}}});export{t as supabase};
