@@ -1,1 +1,0 @@
-import{o as e}from"./reveal-BxU_7sQl.js";var t=e(`check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]);export{t};
